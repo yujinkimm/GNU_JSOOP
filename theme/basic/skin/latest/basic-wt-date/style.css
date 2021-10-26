@@ -1,0 +1,9 @@
+/* 새글 스킨 (latest) */
+.lt_pc {float:left;margin-left:20px}
+.lt {position:relative;float:left;width:280px; }
+.lt ul {margin:0 0 10px;padding:0;list-style:none}
+.lt li {margin:0px 0 4px 0px; float:left; padding-right: 10px; }
+.lt li p {margin:0; padding:0; float:left; }
+.li li ul { clear:both; }
+.lt li a { color:#231f20 !important; }
+.lt li a u { color: #dce0df !important; font-size: 10px; }

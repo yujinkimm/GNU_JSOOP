@@ -1,0 +1,13 @@
+/adm
+/bbs
+/install
+/lib
+/mobile
+/plugin
+/data
+extend/
+_common.php
+config.php
+g4*.php
+*.sh
+/img
